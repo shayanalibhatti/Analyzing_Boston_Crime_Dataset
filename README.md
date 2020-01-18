@@ -8,7 +8,7 @@ I used Seaborn library for plotting the data. Following are some of the observat
 1) It is seen that the most occurring offense was Motor Vehicle Accident followed by Larceny and medical assistance requests. Complete crime characteristics for the 4 years is shown below:
 ![image](https://user-images.githubusercontent.com/41015749/72670850-a1ffb900-3a10-11ea-91ad-dfdc347596c7.png)
 
-2) Following chart shows the crimes committed in each district in the 4 years. It can be seen that District B12 had the most offenses registered:
+2) Following chart shows the crimes committed in each district in the 4 years. It can be seen that District B2 had the most offenses registered:
 ![image](https://user-images.githubusercontent.com/41015749/72670928-80eb9800-3a11-11ea-8985-f82506652556.png)
 
 3) Following chart shows the time of day when most crimes are committed. It is evident that most offenses occured at 5pm and least offenses occured at 4 and 5am in the 4 years mentioned on top.
