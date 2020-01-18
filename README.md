@@ -25,7 +25,7 @@ I used Seaborn library for plotting the data. Following are some of the observat
 
 ![image](https://user-images.githubusercontent.com/41015749/72671028-7c73af00-3a12-11ea-8774-01c32be4cf66.png)
 
-6) Following pie chart shows the percentage of crimes committed by year:
+6) Following pie chart shows the percentage of crimes committed by year, 2017 had the most registered offenses:
 
 ![image](https://user-images.githubusercontent.com/41015749/72671042-a331e580-3a12-11ea-89b8-c29314caeec1.png)
 
